@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="sub_activity">Sub Activity</string>
+    <string name="start_in_process">Start sub-activity in process</string>
+    <string name="start_in_new_process">Start sub-activity in new process</string>
+    <string name="finish">Finish activity</string>
+</resources>

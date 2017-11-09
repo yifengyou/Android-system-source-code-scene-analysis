@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Broadcounter</string>
+    <string name="counter">Counter: </string>
+    <string name="init_counter">0</string>
+    <string name="start">Start Counter</string>
+    <string name="stop">Stop Counter</string>
+</resources>
